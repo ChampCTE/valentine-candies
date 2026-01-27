@@ -1,0 +1,42 @@
+Copyright (c) 2026 Cèlia Trullà Estruch
+
+Permission is hereby granted to use, copy, modify, and redistribute this code
+and associated assets for NON-COMMERCIAL purposes only, provided that:
+
+1. Proper credit is given to the original author:
+   Cèlia Trullà Estruch
+
+2. This license notice is included in all copies or substantial portions
+   of the project.
+
+3. Any modified use clearly indicates that changes were made.
+
+---
+
+The following actions are NOT permitted:
+
+- Using this project, in whole or in part, for commercial purposes or in any
+  project that generates direct or indirect revenue, without prior written
+  authorization from the author.
+
+- Redistributing modified versions without preserving this license and
+  without clearly stating the modifications.
+
+---
+
+## Third-Party Credits
+
+This project includes a background animation effect adapted from:
+
+Toshiya Marukubo  
+Original work: https://codepen.io/toshiya-marukubo/pen/MWyKxEb  
+
+The background effect remains the intellectual property of its original author
+and is used here with attribution.
+
+---
+
+For commercial use, licensing inquiries, or special permissions, please contact:
+
+Cèlia Trullà Estruch  
+Email: celia.trulla@gmail.com
