@@ -15,10 +15,11 @@ This project was created as a personal, creative, and non-commercial work for Va
 
 ---
 
-## Artwork & Design
+## Artwork
 
-- **All illustrations, assets, and visual designs** were created by **Cèlia Trullà Estruch**
-- Candy hearts, machine design, and overall visual identity are original works
+- **The art** were created by **Eva Trullà Estruch**
+  Portfolio:  
+  https://evatrulla.com
 
 ---
 

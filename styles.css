@@ -46,8 +46,8 @@ h1 {
 /* Hearts Candy */
 .mini-heart {
     position: absolute;
-    left: 55%;
-    top: 70%;
+    left: 50%;
+    top: 75%;
     width: 90px;
     height: 75px;
     transform: translateX(-50%) rotate(0deg);
@@ -100,8 +100,8 @@ h1 {
 /* Pull Button */
 .btn-palanca {
     position: absolute;
-    bottom: 29%;
-    right: 45%;
+    bottom: 28.5%;
+    right: 46%;
     width: 45px;
     height: 45px;
     background-color: #717171;
