@@ -38,6 +38,7 @@ h1 {
     overflow: visible;
 }
 .maquina-container {
+    position: relative;
     display: block;
     margin: 20px auto;
     width: fit-content;
@@ -100,8 +101,9 @@ h1 {
 /* Pull Button */
 .btn-palanca {
     position: absolute;
+    top: 66%;
     bottom: 28.5%;
-    right: 46%;
+    right: 45%;
     width: 45px;
     height: 45px;
     background-color: #717171;
@@ -150,4 +152,27 @@ canvas#canvas {
     height: 100vh;
     z-index: 0;
     pointer-events: none;
+}
+
+/*Responsive*/
+@media (max-width: 480px) {
+    .maquina {
+        max-width: 260px;
+    }
+
+    .btn-palanca {
+        top: 66%;
+        bottom: 28.5%;
+        right: 45%;
+        width: 9%;
+        height: 9%;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .instruccion {
+        font-size: 1rem;
+    }
 }
